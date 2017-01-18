@@ -1,0 +1,8 @@
+body {
+	background-image: url("../images/marshfortmcallister.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: #999;
+	background-size: cover;
+}
